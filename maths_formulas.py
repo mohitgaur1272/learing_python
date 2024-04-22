@@ -1,5 +1,5 @@
-n =65
-m =40
+n =254585
+m =25425
 c =5
 print()
 print(">>>>>>>>>>>>>>>>>>>>hello Guys so today we will create formulas for example \"binomial theorem\". \n>>>>>>>>>>>>>>>>>>>>and we will prove that \"LHS=RHS\"")
