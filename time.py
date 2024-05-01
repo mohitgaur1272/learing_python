@@ -3,8 +3,8 @@ print("              this programme is for you.")
 print()
 
 # timestamp = time.strftime('%H:%M:%S')
-newtime = int(time.strftime('%H'))
-#newtime = 22
+#newtime = int(time.strftime('%H'))
+newtime = int(input("Enter value in range \"0-24\":"))
 # print(newtime)
 if (newtime >=0 and newtime < 12 ):
     print("         \"(:hello sir very good morning , i hope you have a nice day-:)\"")
